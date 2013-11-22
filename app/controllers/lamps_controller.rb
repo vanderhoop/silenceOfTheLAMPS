@@ -11,7 +11,6 @@ class LampsController < ApplicationController
     end
   end
 
-
   def update
     @lamp = Lamp.find(params[:id])
     if @lamp.update_attributes(params[:lamp])
