@@ -15,4 +15,4 @@ end
 #           PUT    /lamps/:id(.:format)      lamps#update
 #           DELETE /lamps/:id(.:format)      lamps#destroy
 
-
+#=========================================================
